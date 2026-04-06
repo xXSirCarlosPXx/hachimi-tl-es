@@ -11494,6 +11494,416 @@
       "size": 161660
     },
     {
+      "path": "assets/textures/race/daily/tex_race_daily_00.diff.png",
+      "hash": "74cb050157735f3250ad5af25f20df0acaa5fdf9206a2dbc3fb93633fc9369e0",
+      "size": 140385
+    },
+    {
+      "path": "assets/textures/race/dailylegend/utx_txt_dailylegend_logo_00.diff.png",
+      "hash": "7d393f058037c2e6737fef5bae9a429e2b6a66820af5bc970fa3bfa0ccba5fde",
+      "size": 161559
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_100101.diff.png",
+      "hash": "99bee8ba3f14142fbf8eeaa97b7df4be30f04b6d2251febab1524722fe4e9879",
+      "size": 40047
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_100201.diff.png",
+      "hash": "780c453b8f5a5ce6fe7581fee18dcf1e8a7a770cb6efa39b7fc010da4d73b6fb",
+      "size": 49931
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_100301.diff.png",
+      "hash": "fe6e7bc2f781dd8440dc2e7fa1e330e38acb9f1efb2469f4032f6c5962fff284",
+      "size": 40004
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_100401.diff.png",
+      "hash": "3530e6fefbdc77b6e4da4a2b030b1e25b0663a0a4572bcee2e9a6a599b29870d",
+      "size": 83517
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_100501.diff.png",
+      "hash": "0c57ed3fd03fb114097d39072f1f2e38a3faa7277cf5cb82c3591777d74f805f",
+      "size": 47681
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_100601.diff.png",
+      "hash": "a68e0f1e0eb0e7e48b6b5e67e72f61b02146b9cb2868d8cf599774937ce74ff2",
+      "size": 47313
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_100701.diff.png",
+      "hash": "42fb03e029400d8967e3086bf339d19e223660c585d4833ea6c5c7906cac3277",
+      "size": 38669
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_100801.diff.png",
+      "hash": "40db8eb2b4d4b9807cd835a2794b57420e2a9e3093c4ebdc7452c89416d85a5e",
+      "size": 30819
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_101001.diff.png",
+      "hash": "ecde360dd9ab7a92060018e12813712d3d67a4b67b4eeba3b75e3bfd9bc168f4",
+      "size": 45288
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_101101.diff.png",
+      "hash": "f4572da7391d892914d11d06257ce10647b2b71c6f61409b4df9aae214c7b965",
+      "size": 49609
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_101201.diff.png",
+      "hash": "a942f2d2beff18da32963dd14b731cf90db9447d8f0cec1e3bea4f4f58df3df4",
+      "size": 47890
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_101301.diff.png",
+      "hash": "d86b0525911e1b506267ee265c5a825ccbadbfe393a1825706abbd2c9f4fda9c",
+      "size": 69048
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_101302.diff.png",
+      "hash": "e53ec56895f758338f0a284ad1aa6f99b242d0e5bf468fcbf174cd51ed3b65c9",
+      "size": 44286
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_101401.diff.png",
+      "hash": "08a26561ba0dfd0a91fb221b8c2cf73b30ba3137dd28786dca0cec74c4af8a55",
+      "size": 41852
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_101501.diff.png",
+      "hash": "fe198ff6cb73addfafeb606082d81bacb4ccf03ea999ea6650c3db0f675e87f9",
+      "size": 52421
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_101601.diff.png",
+      "hash": "86e4d55cd7c5d8ddf0df68ef00ec5ea7f317ac9e1216034cd4f955a604eabd51",
+      "size": 47183
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_101701.diff.png",
+      "hash": "735444c850e8189fb08776b0c4b17a1824ab93aeacd9000a152ec0df46933bc8",
+      "size": 53445
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_101801.diff.png",
+      "hash": "e41bf95f2d21a3849d9e6e4bc7be4217eef48cda8486f176b65a33dc3265a927",
+      "size": 56410
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_101901.diff.png",
+      "hash": "a8beaab59052acc40f6640525cd1fd565c9e912a172354d296ee552d65a01b49",
+      "size": 41274
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_102001.diff.png",
+      "hash": "e78e126681ebc0115f370b16ad35c6876a0e22b01d07352a87f58192cb9b35a9",
+      "size": 47691
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_102101.diff.png",
+      "hash": "10294bea3b184b48060949a21dba967a2f31ffd45f16d81ad4df52c5f811f648",
+      "size": 47761
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_102301.diff.png",
+      "hash": "7c24845872d14990cf9403e9910f82be0656c00ddf81be1d00fa95dc8d65d296",
+      "size": 88537
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_102401.diff.png",
+      "hash": "378128f13b1eff7dbc7415f21b3ca41f18f67ec0b9a0e075ca2d8cf1d658fff2",
+      "size": 49197
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_102601.diff.png",
+      "hash": "81f4713914dd13a26151b5abe9a7ee63fd3da31703eb75f83f5c15fc2ade74ac",
+      "size": 45994
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_102701.diff.png",
+      "hash": "5719e80e9c0758be675e3b8f81226a717c15bedaaf5b0f5ae81e2d15452375cb",
+      "size": 77546
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_103001.diff.png",
+      "hash": "b1c2fd40f2a86f902f441d2f8a75a6612dd81f473b7b8be8cb7bf319f1298482",
+      "size": 45371
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_103201.diff.png",
+      "hash": "be5db3b1aa874217507ce3c18312e560f92045f02c3ed3dce12a7505d3636045",
+      "size": 89500
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_103501.diff.png",
+      "hash": "ce9dd6347255b4f07fc5d015589a2a1f8480d0af6425ba8cabd22d3d4f6ccd46",
+      "size": 36735
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_103701.diff.png",
+      "hash": "bec715cd8348ba3fc13599fcabf51bc9d1b7cc13b03d165ecba01c7759fcbb97",
+      "size": 38484
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_103801.diff.png",
+      "hash": "b05f3584e8a50f523edf1496e7ec054e4717ec781993ffb0e20cad20e9ae6fde",
+      "size": 45321
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_104001.diff.png",
+      "hash": "70418d448ad3f4f5649c4dc804263673aefd24acd4d01e544775df066b2376e1",
+      "size": 55296
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_104101.diff.png",
+      "hash": "a758544ca0f373bbcea60ca4495b609afea1bcc45da4b65bb1ddbba0b82e91d2",
+      "size": 78229
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_104501.diff.png",
+      "hash": "4798baff8a190c572d8548cd47447912294af29a967df553260df2c529b86ff7",
+      "size": 39246
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_105001.diff.png",
+      "hash": "c712705877a0ef5670b419964da0b5d14d78b32605ebb44988bfd07f281a82ef",
+      "size": 80818
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_105601.diff.png",
+      "hash": "472591936c99fbb28db40519fca7a10a13c5c276a396d4c345e54f8a2e5e784d",
+      "size": 45866
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_105801.diff.png",
+      "hash": "b0d26c3271665ba8be7ef5198ac8ce61156de979a2fb31d761a4617efbf61edc",
+      "size": 53790
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_105901.diff.png",
+      "hash": "f4f049e957b57cc77db61392ca166cc9154b4372838aae804f1997e98ea47214",
+      "size": 52268
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_106001.diff.png",
+      "hash": "3ba4b55117e8053046793c890c476665916445b6796691da57bfffecd5e80286",
+      "size": 49299
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_106101.diff.png",
+      "hash": "8a5c938212259a956e0c6ec112c26566c615d558446013528ee15e680550376e",
+      "size": 46318
+    },
+    {
+      "path": "assets/textures/race/legend/btn/tex_btn_legend_107401.diff.png",
+      "hash": "24576c8ef5354bb833052574e9657e836ef54abbb4eb1e2d0a8c42d3ace7440e",
+      "size": 48471
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_100101.diff.png",
+      "hash": "f8da332dccacdd3c9426409276f7e211b65a8fba2dc153b54a5ed0a247b492cf",
+      "size": 107662
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_100201.diff.png",
+      "hash": "cb59b01bd91aebb23dd8b3950f066b25cd231c6b7ea53091b8e39c31ccd34b01",
+      "size": 128393
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_100301.diff.png",
+      "hash": "5f0d78bf1faae412f8523c872d4bdc66c06932ee53c69de6db29605c300cb157",
+      "size": 96048
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_100401.diff.png",
+      "hash": "3e1fffddd05224b09ada3610aa1bceb830bafbd66d2cd5c43fa7e45ae1904245",
+      "size": 136702
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_100501.diff.png",
+      "hash": "79073ed41b8b13c53b171ec342bbc56565417c37a173140c9cf1e13527fa4f2b",
+      "size": 79591
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_100601.diff.png",
+      "hash": "2bfa2da0713fda46a80c5bedf3ac8f7c7da4c95231ad041ed4b4a1f51b8be391",
+      "size": 83770
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_100701.diff.png",
+      "hash": "a2aacf1dfb3b3221b14698e4e25107271d43a5b24044fdea5a5ddf906489a177",
+      "size": 92016
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_100801.diff.png",
+      "hash": "115874fead80ab52aabbcb412cff3f67b49edf6facf1f6b1d62d534f20b2a569",
+      "size": 71085
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_101001.diff.png",
+      "hash": "9037cafae6a801ca085c4dd10781a85803a476eeb0e5281ea7e0a3361919100e",
+      "size": 108776
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_101101.diff.png",
+      "hash": "54328929c308deeb1538479f3ffd21f71926f5f8f3f653d722c83d5207c49b46",
+      "size": 108177
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_101201.diff.png",
+      "hash": "d2b9ffcbcccacc623776bdc82702e8cf7fd601442dfdef4f5ee7c2cdf1f5b426",
+      "size": 97507
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_101301.diff.png",
+      "hash": "14d1a35a174c60c23fcdeb49d3521c357498cbecf4febe0a2a842cd9623f757a",
+      "size": 88362
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_101302.diff.png",
+      "hash": "e1e5db92e06425f139dd29fb09c4f8eeb46c6ca186b0fe846a04092c2ac48c77",
+      "size": 86418
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_101401.diff.png",
+      "hash": "ed12f2538546181595a6f67aab0647931983844b9d6c74562c25219e2c8fab0a",
+      "size": 81234
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_101501.diff.png",
+      "hash": "1bb3aab08a54bdae9f7e6efab17e0e9afa22abca6639c6630aba3fab2351c90d",
+      "size": 139340
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_101601.diff.png",
+      "hash": "1652b06aac7556d0a331bd1633d0b9967f09bd99804c994674e7dac077dd4761",
+      "size": 103248
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_101701.diff.png",
+      "hash": "ccca5ddc166755d55c3018227d9069550015e0383e10294758c40523ee5a8fb3",
+      "size": 164063
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_101801.diff.png",
+      "hash": "55b06a16065a08b7589b332f915f112d217b09466dd9dac3d2439707a4b6038d",
+      "size": 66950
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_101901.diff.png",
+      "hash": "c2ca74ce4170c473eed465a96a5e3f9109bc066d0a4f5069b8d7522cc76ed03e",
+      "size": 92235
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_102001.diff.png",
+      "hash": "db9dd4ac36f6337c1edbd760bfc4e24d7cb1d53c698c791f184d0c5abcafbe01",
+      "size": 75586
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_102101.diff.png",
+      "hash": "a576c83e1e21ef8ae345ebb5b29f675cfc5f2e4307f2da9952b9c4c63bd3a8e2",
+      "size": 121735
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_102301.diff.png",
+      "hash": "e48172770651e68aa4d6e368d468fec7298688df74e1c6dd032c1969921c098c",
+      "size": 140696
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_102401.diff.png",
+      "hash": "47d6004bdff5582e31f1ecd63c36218b3f948ee6dc0cedbb84a4df00cbbf52dd",
+      "size": 114364
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_102601.diff.png",
+      "hash": "1885d9dd67fc59f268e7491560559df0fd5f49bc4b28b315ff3c23564fcfed1f",
+      "size": 131675
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_102701.diff.png",
+      "hash": "c43804abc72dd01258eb1d74b196df946fecc4fae4e48d2e78011b70ea416f1d",
+      "size": 145516
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_103001.diff.png",
+      "hash": "d49b4bb5465d2ae63cafb3349ade46fe34c2b2487deea7798c5c5f1bd69a85bb",
+      "size": 106511
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_103201.diff.png",
+      "hash": "a77146739835d5b429925a19934858af3787ba8acc0773c39f9e99fccb968b38",
+      "size": 179400
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_103501.diff.png",
+      "hash": "4806e37bc0098a2746e4c74250bf49c29e61d50b3ed601e6ff668ca90ace6a92",
+      "size": 76545
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_103701.diff.png",
+      "hash": "241208aef6870a7f0a40fe6130ebe32ac820ba2933145f012cccec56123303a8",
+      "size": 89613
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_103801.diff.png",
+      "hash": "9d898a5715d4bb38f28fbcb5fd2b4eab760f5752697abfc8c987fadd7b13dec2",
+      "size": 67546
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_104001.diff.png",
+      "hash": "e9a3c9ef9d8df8b7ae742d11eba5431e457e1acac1077113e72655ea5782c064",
+      "size": 110289
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_104101.diff.png",
+      "hash": "43394f49deb3c2768a780d80d263a21d5247175ad359a2ebc6a845366cbbf3ab",
+      "size": 123929
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_104501.diff.png",
+      "hash": "52db9f36b20f22350db4b7e0969683c10573b9196458ef1931aefd86dcd3f61d",
+      "size": 76441
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_105001.diff.png",
+      "hash": "31a63372f16e3e5372b7dc54a89cfd31f06a05e3618aac04c7a37226d9c9c35e",
+      "size": 136535
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_105601.diff.png",
+      "hash": "48c70a1c6e0d896b69d9cd2d9f458f57951a4656f8f1957d6c2df64c10a384ec",
+      "size": 104114
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_105801.diff.png",
+      "hash": "d0c9fd378c34e5773d0501d58cba4549a840f42083517322e76e0cf4f044c3ed",
+      "size": 110848
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_105901.diff.png",
+      "hash": "39074be20b4ebdd430281905c8826f3ad98274bb60b84abe0410eb638d1e260d",
+      "size": 100969
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_106001.diff.png",
+      "hash": "8c2f425e9dbc0663807c7fbf68bed817ca94923b48266b27820c583caadb08c1",
+      "size": 110985
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_106101.diff.png",
+      "hash": "1264786370a2e4fab2f5dd4957ec676ee40b3f3719b7cec9a1bdadea790c4b70",
+      "size": 87355
+    },
+    {
+      "path": "assets/textures/race/legend/logo/tex_legend_logo_107401.diff.png",
+      "hash": "4b7ba34f5df2690843c595cdd53877f5022ffb1ca4b5600fb242a922c53f6c5d",
+      "size": 151316
+    },
+    {
       "path": "assets/textures/race/racetitle/tex_race_rt_000_10000_01.diff.png",
       "hash": "40b396cfa5217c20ded0c6dc00b4aa6e2f7c85037db0d672c74579522805b034",
       "size": 77453
@@ -16245,8 +16655,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "bc89eed78fc8171c80ee5bc2f2c74d25aa17c663362f40a973c269854a2d9453",
-      "size": 995523
+      "hash": "13a3f22033b059166f8af410b12b5046b396cd599c23436a66ffe7a3f47b50d1",
+      "size": 995536
     },
     {
       "path": "config.json",
@@ -16255,8 +16665,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "ea5d6d70a275dae18ba83a36ec175b94edd59e27f635cf1d3c30828900ff3f11",
-      "size": 14870
+      "hash": "dfbf9fc94005f84f5109a9a84f0d59d95ca0ddcfa3ee8a7afc679f251db2e2e3",
+      "size": 14972
     },
     {
       "path": "includes_android",
@@ -16270,8 +16680,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "08a5a85bbe43dea34739fffa27d20453162079b11d4966902c09d1de6086232f",
-      "size": 405172
+      "hash": "2e13b6ec8b6f9e35a3e45e1b98e4031c1d0cb375978a29d3f00adb0ef9d156ac",
+      "size": 405361
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -16285,8 +16695,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "74ed757aeecf363eb4111e257642aa9bb1fb8c71673596d2d5f4a787ffc0036a",
-      "size": 3261514
+      "hash": "08c2d224db91269dbffdb01498153641e775e1c1e195f5f090bbc28da2d78198",
+      "size": 3261495
     }
   ]
 }
