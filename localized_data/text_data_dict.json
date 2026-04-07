@@ -36020,6 +36020,13 @@
         "41100005": "Today's a Good Day for a Warm Bento",
         "41100006": "Slowly and Leisurely, their Free Time.",
         "41100007": "Lighting up our Same Feelings",
+        "41103001": "An Ever-Shifting Phantom",
+        "41103002": "Chasing a Silver Shadow",
+        "41103003": "The Dangerous Corniche Ahead",
+        "41103004": "To Be the Shining Cullinan in the Rough",
+        "41103005": "A Spectre That Must Be Banished",
+        "41103006": "Coloring in a Hollow Wraith",
+        "41103007": "One-of-a-Kind - Sweptail",
         "41104001": "Overlooked By Many",
         "41104002": "Aiming Beyond Aspirations",
         "41104003": "Because It's Reckless",
@@ -46885,7 +46892,15 @@
         "369": "Plan: None",
         "370": "Is This Really It?",
         "371": "A Surprise for You Too",
-        "372": "Secrets to a Grand Finale"
+        "372": "Secrets to a Grand Finale",
+        "413": "Bells of Golden Lily Ring",
+        "414": "Bakushin Dashing Sugarbush",
+        "415": "A Lantana Like the Wind",
+        "416": "Wreathed in Ohai Ali'i",
+        "417": "Patient Wintersweet",
+        "418": "The Marigold Smiles",
+        "419": "Kalanchoe Dancing in the Night",
+        "420": "A Vow of Statice"
     },
     "192": {
         "10001": "Trainer's Office",
@@ -52107,7 +52122,10 @@
         "830264003": "Towards a New Journey",
         "830265001": "A Solitary Beauty",
         "830265002": "A Solitary Day Off",
-        "830265003": "A Solitary Truth"
+        "830265003": "A Solitary Truth",
+        "830292001": "Growing \"Interest\"",
+        "830292002": "Thickening \"Anxiety\"",
+        "830292003": "Building \"Love\""
     },
     "264": {
         "29": "Hikari (NPC)"
