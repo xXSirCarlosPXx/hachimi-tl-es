@@ -1545,6 +1545,8 @@
     "Gacha570007": "Available support cards: {0}",
     "Gacha570008": "Select a support card for pickup",
     "Gacha570009": "<atlas=PreIn sprite=utx_ico_notice_00/> Selection can always be changed",
+    "Gacha600002": "Unavailable Gacha",
+    "Gacha600003": "The gacha corresponding to this ticket is currently unavailable.",
     "Gacha608001": "Exchange point expiration warning",
     "Gacha608003": "When this gacha ends, exchange points will \nbe converted to clovers and can no longer be \nexchanged for {0}.",
     "Gacha608004": "Gacha period over.",
